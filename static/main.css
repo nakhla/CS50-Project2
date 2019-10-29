@@ -1,0 +1,29 @@
+
+
+#chat {
+    height: 85vh;
+    overflow: auto;
+}
+
+#channels {
+    height: 76vh;
+    overflow: auto;
+}
+
+#mymessage {
+    padding-right: 80px;
+}
+
+#send {
+    margin-left: -60px;
+    z-index: 9
+}
+
+#channel {
+    padding-right: 80px;
+}
+
+#create {
+    margin-left: -70px;
+    z-index: 9
+}
